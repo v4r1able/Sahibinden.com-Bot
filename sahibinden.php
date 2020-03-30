@@ -1,5 +1,5 @@
 <?php
-// V4T1.EU Project v4r1able & t13r
+// V4T1.EU Project v4r1able & t13r - ninjanetwork
 if(empty($_GET["u"])) {
 echo "GET Giriniz(?u=)";
 exit;
